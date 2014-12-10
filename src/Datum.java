@@ -170,7 +170,7 @@ public class Datum {
 		this.mjesec = other.mjesec;
 		this.godina = other.godina;
 	}
-	public generatorDatuma(Datum){
+	public  {
 		
 	}
 
