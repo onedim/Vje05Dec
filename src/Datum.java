@@ -27,6 +27,7 @@ public class Datum {
 	 * @param postaviGodinu
 	 */
 	public Datum(int postaviDan, int postaviMjesec, int postaviGodinu) {
+		
 		dan = postaviDan;
 		mjesec = postaviMjesec;
 		godina = postaviGodinu;
@@ -170,8 +171,6 @@ public class Datum {
 		this.mjesec = other.mjesec;
 		this.godina = other.godina;
 	}
-	public  {
-		
-	}
+	
 
 }
